@@ -1,4 +1,4 @@
-# 📊 Phân Tích Dữ Liệu Đội Tuyển T1 | T1 Esports Data Analysis
+# Phân Tích Dữ Liệu Đội Tuyển T1 | T1 Esports Data Analysis
 
 ### 1. Giới thiệu
 Dự án này thực hiện thu thập, xử lý và phân tích dữ liệu thi đấu của đội tuyển **T1** trong các giải đấu.  
@@ -9,9 +9,11 @@ Quy trình gồm:
 
 ---
 
-### 2. Công cụ sử dụng
-- **Python**: BeautifulSoup(bs4), requests, pandas
-- **Power BI**: tạo báo cáo 
-- **Nguồn dữ liệu**: dữ liệu công khai từ trang [T1 Match History on LoL Fandom](https://lol.fandom.com/wiki/T1/Match_History)
+### 2. Kết quả
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18b9b521-9ef4-4e18-9303-3cc8defcbde4" width="800"/>
+  <p>Hình 1: Thống kê T1</p>
+</div>
 
-**Tác giả:** Tai Pham
+
+
