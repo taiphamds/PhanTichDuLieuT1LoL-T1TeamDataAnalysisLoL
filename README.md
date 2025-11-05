@@ -1,4 +1,4 @@
-# 📊 T1 Esports Data Analysis
+# T1 Esports Data Analysis
 
 ### 1. Introduction
 This project focuses on collecting, processing, and analyzing match data of **T1** in various tournaments.  
@@ -9,7 +9,9 @@ The workflow includes:
 
 ---
 
-### 2. Tools Used
-- **Python**: BeautifulSoup (bs4), requests, pandas  
-- **Power BI**: interactive report creation  
-- **Data Source**: public data from [T1 Match History on LoL Fandom](https://lol.fandom.com/wiki/T1/Match_History)  
+### 2. Results
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18b9b521-9ef4-4e18-9303-3cc8defcbde4" width="800"/>
+  <p>Figure 1: Statistics of T1</p>
+</div>
+
